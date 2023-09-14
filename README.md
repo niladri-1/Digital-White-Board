@@ -1,6 +1,6 @@
 # Digital White Board - MS Paint Clone
 
-![App Screenshot]([screenshot.png](https://github.com/niladri-1/Digital-White-Board/blob/main/Demo.png))
+![App Screenshot](screenshot.png](https://github.com/niladri-1/Digital-White-Board/blob/main/Demo.png)
 
 ## Description
 
